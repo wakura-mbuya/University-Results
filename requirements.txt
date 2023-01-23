@@ -5,3 +5,6 @@ seaborn
 sklearn
 ipykernel 
 Jinja2
+streamlit
+awesome-streamlit
+openpyxl
